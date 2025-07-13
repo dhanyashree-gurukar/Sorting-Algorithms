@@ -35,3 +35,10 @@ class SelectionSort {
         selectionSort(array);
     }
 }
+
+/*
+  Time complexity:
+  Best case = Average case = Worst case: O(n^2)
+  
+  Space complexity: O(1)
+ */
