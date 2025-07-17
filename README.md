@@ -23,7 +23,7 @@ The following sorting algorithms are included:
 
 - ✨ Clean and well-commented implementations
 - 🧠 Time and space complexity analysis
-- 📘 Code in both **C** and **Java**
+- 📘 Code in **Java**
 - 🎯 Great for **DSA practice** and **interview prep**
 
 
