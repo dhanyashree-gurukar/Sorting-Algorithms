@@ -14,7 +14,7 @@ The following sorting algorithms are included:
 | Selection Sort    | Selects smallest element and swaps with beginning   | O(n²)          | O(n²)          | O(1)             |
 | Insertion Sort    | Builds the sorted array one element at a time       | O(n)           | O(n²)          | O(1)             |
 | Merge Sort        | Divides array into halves and merges sorted halves  | O(n log n)     | O(n log n)     | O(n)             |
-| Quick Sort        | Picks a pivot and partitions the array              | O(n log n)     | O(n²)          | O(log n)         |
+| Quick Sort        | Picks a pivot and partitions the array              | O(n log n)     | O(n²)          | O(1)         |
 | Heap Sort         | Converts array into heap and sorts it               | O(n log n)     | O(n log n)     | O(1)             |
 
 ---
